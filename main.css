@@ -1,5 +1,9 @@
+body
+{
+  background-color: indigo;
+}
 footer {
   padding-top: 1em;
   padding-bottom: 1em;
-  background-color:grey;
+  background-color: red;
 }
