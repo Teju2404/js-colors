@@ -7,3 +7,15 @@ footer {
   padding-bottom: 1em;
   background-color: red;
 }
+#red-label
+{
+  color:red
+}
+#green-label
+{
+  color:green
+}
+#blue-label
+{
+  color:blue
+}
